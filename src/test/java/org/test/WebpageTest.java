@@ -16,7 +16,7 @@ public class WebpageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://pramilasatkhol.github.io/CollegeWebsite/");
+        driver.get("https://pramilasatkhol.github.io/DepartmentTesting/");
     }
 
     @Test
